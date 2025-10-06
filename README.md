@@ -58,7 +58,7 @@ Si le serveur et le client sont sur **deux machines différentes** :
    ```java
    "localhost";
 par
-String host = "192.168.X.X"; // adresse IP du serveur
+"192.168.X.X";
 Vérifie l’adresse IP du serveur :
 
 Windows : ipconfig
