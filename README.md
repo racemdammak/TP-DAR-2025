@@ -12,18 +12,6 @@ Mettre en place une **communication entre un client et un serveur** en utilisant
 
 ---
 
-## 🧩 Structure du projet
-
-TP1-DAR2025/
-├── src/
-│ ├── serverPackage/
-│ │ └── Server.java
-│ └── clientPackage/
-│ └── Client.java
-└── README.md
-
----
-
 ## ⚙️ Fonctionnement du serveur
 
 Le serveur écoute sur un port spécifique et attend la connexion d’un client.  
